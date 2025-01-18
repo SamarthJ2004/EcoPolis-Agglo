@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import MapComponent from './Pages/MapComponent';
+import MapComponent from './components/MapComponent';
 
 const App = () => {
   return (
